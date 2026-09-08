@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "6603bc36-5be4-45cb-989e-9affe5fdc042"
+      }
+    },
+    "android": {
+      "package": "com.davideros.inventorynative"
+    }
+  }
+}
